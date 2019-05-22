@@ -1,6 +1,6 @@
-KEBIJAKAN PRIVASI APLIKASI CUTI - PTUN PANGKALPINANG
+# KEBIJAKAN PRIVASI APLIKASI CUTI - PTUN PANGKALPINANG
 
-Tinjauan
+## Tinjauan
 
 Kami menyadari bahwa privasi di World Wide Web merupakan hal penting bagi Anda. 
 Kami menggunakan informasi untuk memahami kebutuhan Anda dengan lebih baik dan meningkatkan 
@@ -23,7 +23,7 @@ yang kemungkinan diperoleh melalui peranti lunak yang diunduh dari situs atau ya
 lainnya yang ditautkan ke pada situs ini.
 
 
-Informasi yang Kami Kumpulkan
+## Informasi yang Kami Kumpulkan
 
 Kami menyimpan informasi dari pendaftaran, cookies, log files, clear gif dan/atau pihak ketiga untuk 
 menciptakan profil pengguna kami.
@@ -37,20 +37,20 @@ identitas unik (seperti, nama pengguna dan kata sandi), tapi untuk mendukungnya 
 dapat memberikan pengalaman yang lebih pribadi pada situs kami.
 
 
-Keamanan
+## Keamanan
 
 Aplikasi Cuti akan selalu berusaha melindungi informasi pengguna. Ketika pengguna memberikan
 informasi rahasia via situs Web, informasi mereka dilindungi secara online maupun offline.
 
 
-Layanan Pelanggan
+## Layanan Pelanggan
 
 Kami berhubungan dengan pengguna secara teratur untuk menyajikan layanan yang diperlukan dan mengenai 
 persoalan yang berkaitan dengan akun mereka dan kami membalasnya via email atau telepon,
 sesuai dengan keinginan pengguna.
 
 
-Berbagi Data Pribadi Anda
+## Berbagi Data Pribadi Anda
 Ini adalah contoh dimana kami akan membagi informasi pribadi pengguna:
 
 Aplikasi cuti dapat membagikan Data Pribadi Anda dengan pihak ketiga yang kami pekerjakan untuk 
@@ -66,7 +66,7 @@ mungkin menyingkapkan Data Pribadi untuk menegakkan atau mengaplikasikan syarat 
 yang berlaku bagi produk dan layanan kami, atau untuk melindungi hak, properti atau keselamatan JurnalApps, pengguna kami, atau lainnya.
 
 
-Tindakan Hukum
+## Tindakan Hukum
 
 Meskipun kami berusaha maksimal untuk menjaga privasi pengguna, kami juga perlu memberikan informasi pribadi
 jika diperlukan oleh hukum dimana kami yakin bahwa tindakan seperti ini perlu dilakukan untuk memenuhi 
@@ -77,11 +77,11 @@ berkala memberikan informasi seperti jumlah pengunjung, area ketertarikan, hubun
 Ini tidak ada kaitannya dengan informasi yang secara personal tidak dapat teridentifikasi.
 
 
-Tautan
+## Tautan
 
 Website ini dapat memiliki tautan ke situs lain. Perlu Anda ketahui bahwa kami, JurnalApps, tidak bertanggungjawab atas konten atau praktek privasi situs lainnya. Kami membedakan situs-situs web pihak ketiga ini dengan metode seperti membukanya pada jendela browser terpisah atau dalam suatu bingkai yang mengindikasikan area yang bukan bagian dari situs kami. Dalam hal ini, kebijakan privasi website JurnalApps tidak berlaku. Kami harap pengguna berhati-hati ketika meninggalkan situs kami dan membaca pernyataan privasi masing-masing dan setiap Website yang Anda kunjungi. Pernyataan privasi berlaku sepenuhnya terhadap informasi yang diperoleh website ini.
 
-Pemberitahuan Perubahan
+## Pemberitahuan Perubahan
 
 Jika kami memutuskan untuk mengubah kebijakan privasi kami, kami akan mengirim perubahan tersebut 
 pada pernyataan privasi ini atau tempat lain yang kami anggap tepat.
@@ -93,17 +93,17 @@ Meskipun demikian, jika pengguna telah meng-opt-out semua komunikasi dengan situ
 atau menghapus/menonaktifkan akun mereka, maka mereka tidak akan dihubungi lagi.
 
 
-Persetujuan Anda
+## Persetujuan Anda
 
 Dengan menggunakan website kami, dengan ini Anda setuju pada pengumpulan dan pemakaian informasi ini sebagaimana 
 ditetapkan dalam kebijakan privasi ini.
 
-Gambaran Umum
+## Gambaran Umum
 
 Tidak ada sesuatu apapun dalam perjanjian ini yang merupakan usaha kami untuk menjaga kerahasiaan informasi
 apapun yang diberikan kepada kami dalam hal pemakaian aplikasi kami.
 
-Informasi Kontak
+## Informasi Kontak
 
 Jika pengguna memiliki pertanyaan atau saran yang berkaitan dengan kebijakan privasi,
 silahkan kirimkan email ke kepegawaian.ptunpkp@gmail.com
